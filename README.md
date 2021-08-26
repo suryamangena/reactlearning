@@ -68,3 +68,36 @@ The data lives in the parent component and is passed down to the child component
 
 Now, this might seem like extra work, but having the data flow in one direction and having one place where the data is modified makes it much easier to understand how the application works.
 
+## Functional Programming
+React builds on a lot of the techniques of functional programming...techniques that you'll learn as you go through this program. However, there are a couple of important JavaScript functions that are vital to functional programming that we should look at. These are the Array's .map() and .filter() methods
+
+## .map or .filter
+.map() the .filter() method returns a new array instead of modifying the original array:
+
+## Combining .map() And .filter() Together
+What makes .map() and .filter() so powerful is that they can be combined. Because both methods return arrays, we can chain the method calls together so that the returned data from one can be a new array for the next.
+```
+const names = ['Karen', 'Richard', 'Tyler'];
+
+const shortNamesLengths = names.filter( name => name.length < 6 ).map( name => name.length );
+```
+To break it down, the names array is filtered, which returns a new array, but then .map() is called on that new array, and returns a new array of its own! This new array that's returned from .map() is what's stored in shortNamesLengths.
+
+.filter() First!
+**On a side note, you'll want to run things in this order (.filter() first and then .map()). Because .map() runs the function once for each item in the array, it will be faster if the array were already filtered.**
+
+## React is Just JavaScript Recap
+React builds on what you already know - JavaScript! You don't have to learn a special template library or a new way of doing things.
+
+Two of the main methods that you'll be using quite a lot are:
+
+.map()
+.filter()
+It's important that you're comfortable using these methods, so take some time to practice using them. Why not look through some of your existing code and try converting your for loops to .map() calls or see if you can remove any if statements by using .filter().
+
+
+
+
+
+
+
