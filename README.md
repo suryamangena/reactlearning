@@ -95,6 +95,14 @@ Two of the main methods that you'll be using quite a lot are:
 .filter()
 It's important that you're comfortable using these methods, so take some time to practice using them. Why not look through some of your existing code and try converting your for loops to .map() calls or see if you can remove any if statements by using .filter().
 
+## React Sandbox
+https://codesandbox.io/s/wandering-morning-fqp3c?file=/src/index.js:0-289
+
+
+## [React UI Intro](./docs/react-ui.md)
+## [Creating Elements JSX](./docs/creating-elements-jsx.md)
+## [Creating React App](./docs/creating-react-app.md)
+## [State Management](./docs/state-management.md)
 
 
 
