@@ -104,6 +104,26 @@ https://codesandbox.io/s/wandering-morning-fqp3c?file=/src/index.js:0-289
 ## [Creating React App](./docs/creating-react-app.md)
 ## [State Management](./docs/state-management.md)
 
+## Exercises
+1) [Exercise-1](./exercise/exe-1/exe-1.md)
+2) [Exercise-2](./exercise/exe-2/exe-2.md)
+3) [Exercise-3](./exercise/exe-3/exe-3.md)
+4) [Exercise-4](./exercise/exe-3/exe-4.md)
+4) [Exercise-5](./exercise/exe-3/exe-5.md)
+
+## [Redux](./docs/redux/redux.md)
+
+## [Redux Middleware](./docs/redux/redux-middleware/redux-middleware.md)
+
+## [Redux with React](./docs/redux/redux-with-react/redux-with-react.md)
+
+## [Asynchronous Redux](./docs/redux/asynchronous-redux/asynchronous-redux.md)
+
+## [Thunk](./docs/redux/thunk/thunk.md)
+
+## [Context API](./docs/redux/react-redux-context/react-redux-context.md)
+
+
 
 
 

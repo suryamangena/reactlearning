@@ -150,3 +150,9 @@ class ContactList extends Component {
 ReactDOM.render(<ContactList/>, document.getElementById("root"));
 
 ```
+
+## How do you pass multiple props individually to a component?
+Ans: <Clock time={Date.now()} zone='MST'/>
+**You pass in props individually just as you would with any other HTML attributes.**
+
+
