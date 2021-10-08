@@ -103,6 +103,7 @@ https://codesandbox.io/s/wandering-morning-fqp3c?file=/src/index.js:0-289
 ## [Creating Elements JSX](./docs/creating-elements-jsx.md)
 ## [Creating React App](./docs/creating-react-app.md)
 ## [State Management](./docs/state-management.md)
+## [LifeCycle Events](./docs/life-cycle-events.md)
 
 ## Exercises
 1) [Exercise-1](./exercise/exe-1/exe-1.md)
@@ -110,6 +111,7 @@ https://codesandbox.io/s/wandering-morning-fqp3c?file=/src/index.js:0-289
 3) [Exercise-3](./exercise/exe-3/exe-3.md)
 4) [Exercise-4](./exercise/exe-3/exe-4.md)
 4) [Exercise-5](./exercise/exe-3/exe-5.md)
+
 
 ## [Redux](./docs/redux/redux.md)
 
