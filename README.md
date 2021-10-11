@@ -125,6 +125,16 @@ https://codesandbox.io/s/wandering-morning-fqp3c?file=/src/index.js:0-289
 
 ## [Context API](./docs/redux/react-redux-context/react-redux-context.md)
 
+## [react-router](./docs/react-router/react-router.md)
+
+## [React contacts app git hub repo]
+
+## [Template for Building React Redux project](./docs/step-by-step-guide-redux-project.md)
+
+## [HTML Style Guides](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+## [CSS Style Guides](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+## [JavaScript Style Guides](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+## [Git Style Guides](https://udacity.github.io/git-styleguide/)
 
 
 
